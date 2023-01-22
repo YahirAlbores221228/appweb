@@ -1,11 +1,11 @@
 .flex{
 background-image: linear-gradient(to right top, #f5098f, #ff4b5b, #f27f37, #d4a836, #b1c85f, #83d282, #4fd7ac, #00d8d4, #00c7f3, #00b1ff, #0091ff, #8e5ffb);
-min-width: 1000px;
+min-width: 1001px;
 border: 1px  black solid;
 margin: 2em;
 font-family: Arial, Helvetica, sans-serif;
 }
 hr{
 width: 300px;
-border: 1px solid rgb(255, 47, 0);
+border: 1px solid rgba(255, 0, 0, 0.371);
 }
