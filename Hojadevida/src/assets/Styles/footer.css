@@ -1,0 +1,27 @@
+footer{
+display: flex;
+border: 1px rgb(164, 164, 164) solid;
+text-align: center;
+background-color: rgba(135, 206, 250, 0.358);
+color: rgba(0, 30, 255, 0.712);
+}
+.escue{
+border-radius: 0%;
+width: 16%;
+margin-top: 2px;
+}
+.corre{
+border-radius: 0%;
+width: 16%;
+margin-top: 2px;
+}
+.domici{
+border-radius: 0%;
+width: 16%;
+margin-top: 2px;
+}
+.tele{
+border-radius: 0%;
+width: 16%;
+margin-top: 2px;
+}

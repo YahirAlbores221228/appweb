@@ -1,0 +1,23 @@
+.Container-Aptitud{
+flex-direction: column;
+font-size: 24px;
+margin: 0;
+width: 40%;
+text-align: center;
+display: flex;
+align-items: center;
+}
+.tile{
+font-size: 40px;
+color: rgba(114, 114, 114, 0.796);
+}
+.foto2{
+border-radius: 23px;
+width: 50%;
+}
+.foto2:hover{
+box-shadow: 0 0 10px #1d1d1d, 0 0 40px 
+#1d1d1d, 0 0 80px #1d1d1d;
+opacity: 1;
+}
+
