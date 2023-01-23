@@ -37,7 +37,10 @@ Habilidades:{
 title:"Habilidades",
 texto1:"Diseño web",
 texto2:"Diseñador de interfacez",
-texto3:"Matenimiento en paginas web"
+texto3:"Matenimiento en paginas web",
+texto4:"Adaptabilidad",
+texto5:"Comunicacion",
+texto6:"Creatividad"
 },
 Educacion : {
 title: "Educacion",

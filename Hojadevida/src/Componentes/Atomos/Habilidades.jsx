@@ -9,6 +9,9 @@ function Habilidades() {
 <li>{data.Habilidades.texto1}</li>
 <li>{data.Habilidades.texto2}</li>
 <li>{data.Habilidades.texto3}</li>
+<li>{data.Habilidades.texto4}</li>
+<li>{data.Habilidades.texto5}</li>
+<li>{data.Habilidades.texto6}</li>
 </ul>
 </div>
  );
